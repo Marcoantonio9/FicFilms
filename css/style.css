@@ -1,0 +1,24 @@
+#parte1{
+    
+    background-image: url(../imagens/camera-581126_1920\(3\).jpg);
+    opacity: 0.9;
+    position: relative;
+    background-repeat: no-repeat; 
+    background-size: cover;
+    background-position: top;
+    
+}
+
+#parte5{
+    background: rgb(234, 243, 252);
+}
+
+footer{
+    background: white;
+}
+
+footer, p{
+    margin-top: 10px;
+    margin-bottom: 0px;
+    text-align: center;
+}
